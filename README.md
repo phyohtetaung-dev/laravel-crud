@@ -1,6 +1,4 @@
 # Larave CRUD Boilerplate
-
-## Sample
 ![image](https://user-images.githubusercontent.com/42564050/182523954-2b46fb8a-f87a-4fc1-a11b-3a7247ba6c82.png)
 
 ## Requirements
